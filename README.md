@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varojausz
-- 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning react
+- 👀 I’m interested in any kind of web developing with React
+- 🌱 I’m currently improving my MERN-stack skills
 - 📫 How to reach me: zoezil_ifra@hotmail.com
 
 <!---
